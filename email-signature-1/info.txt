@@ -1,0 +1,33 @@
+Name: Stephen M. Selden
+Title: Digital Marketer
+Email: stephen@gmail.com
+Phone: 407-705-9876
+
+Website: https://www.stephen.com
+Address: 2363 Grand Avenue Maitland, FL 32751
+
+
+social links:
+facebook: https://www.facebook.com/
+twitter: https://www.x.com/
+linkedin: https://www.linkedin.com/
+insta: https://www.instagrap.com/
+
+images:
+headshot: https://i.postimg.cc/kgmB3VJn/business-headshot-example-2.jpg
+
+icons:
+https://i.postimg.cc/gJ2mChN8/call.png
+https://i.postimg.cc/k5c7YsF7/email.png
+https://i.postimg.cc/hj5XtqCy/fb.png
+https://i.postimg.cc/pTcRRd67/linkedin.png
+https://i.postimg.cc/qqt0RTf7/twitter.png
+https://i.postimg.cc/BQjpqSvF/internet.png
+https://i.postimg.cc/VLfVYxT8/insta.png
+
+home:
+https://i.postimg.cc/tgc4zhLS/5974636.png
+
+
+    <!-- table, tr, td, img, a, br, hr -->
+    <!-- color, bg-color, border, margin, padding, font-family, font-size, text-alignmen -->
